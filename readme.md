@@ -1,5 +1,19 @@
 <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="700" height="100" style="vertical-align:middle" /></a><img src="./working%20from%20home%20GIF.gif" width="200" height="100" style="vertical-align:middle;margin:0px 10px" />
 
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="500" height="100"/>
+      </a>
+    </td>
+    <td>
+      <img src="./working%20from%20home%20GIF.gif" width="150" height="100"/>
+    </td>
+  </tr>
+</table>
+
 ## Hi👋, I'm Sabhya, a passionate AI learner ✨
 
 
@@ -83,8 +97,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)  
 
 ---
-
----
 ## ⚡️ Where to Find Me  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sabhyagupta4xr) 
@@ -94,7 +106,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabhyagupta4xr@gmail.com)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SABHYAGUPTA4XR) 
  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
