@@ -1,31 +1,24 @@
-<a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="700" height="100" style="vertical-align:middle" /></a><img src="./working%20from%20home%20GIF.gif" width="200" height="100" style="vertical-align:middle;margin:0px 10px" />
 
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="500" height="100" style="display:inline-block"/>
+  </a>
+  <img src="./working%20from%20home%20GIF.gif" width="150" height="100" style="display:inline-block"/>
+</p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" width="500" height="100"/>
-      </a>
-    </td>
-    <td>
-      <img src="./working%20from%20home%20GIF.gif" width="150" height="100"/>
-    </td>
-  </tr>
-</table>
 
 ## Hi👋, I'm Sabhya, a passionate AI learner ✨
 
 
-<div align="left">
+<div align="center">
 
 | 📊 GitHub Stats | 🚀 Most Used Languages |
 |---------------|------------------|
-| ![](https://github-readme-stats.vercel.app/api?username=SABHYAGUPTA5XR&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SABHYAGUPTA5XR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=SABHYAGUPTA5XR&theme=dark&hide_border=true&include_all_commits=false&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SABHYAGUPTA5XR&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) |
 
 | 🔥 Streak Stats | 🏆 Contributor Stats |
 |---------------|------------------|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=SABHYAGUPTA5XR&theme=dark&hide_border=false) | ![](https://github-contributor-stats.vercel.app/api?username=SABHYAGUPTA5XR&limit=5&theme=dark&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=SABHYAGUPTA5XR&theme=dark&hide_border=true) | ![](https://github-contributor-stats.vercel.app/api?username=SABHYAGUPTA5XR&limit=5&theme=dark&combine_all_yearly_contributions=true) |
 
 </div>
 
